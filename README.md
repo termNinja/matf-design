@@ -15,7 +15,7 @@ Version for light backgrounds.
 
 <img src="logo/black-eng.png">
 
-Verion for dark backgrounds.
+Version for dark backgrounds.
 
 <img src="logo/white-srb.png">
 
