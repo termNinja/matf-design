@@ -4,7 +4,8 @@ Faculty of Mathematics - Visual Identity
 Just a repo I've created in order for me to keep all the
 design materials for [Faculty of Mathematics](http://www.matf.bg.ac.rs/) I need to used accross multiple computers. Feel free to create new ones and send me to update this repository.
 
-New visual identity is the work of [Marko Šerer](https://www.linkedin.com/in/marko-%C5%A1erer-a13578123/).
+New visual identity is the work of [Marko Šerer](https://www.linkedin.com/in/marko-%C5%A1erer-a13578123/), and videos
+are created by [Filip Filipović](http://alas.matf.bg.ac.rs/~mi17113/).
 
 Logo
 ---------------
@@ -50,3 +51,10 @@ Both 16x9 and 16x10 versions are available.
 You can also find a mobile version.
 
 <img src="wallpapers-light/matf-light-wallpaper-portrait-1080x1920.png">
+
+Video intro
+--------------------
+
+Dark and light versions are available.
+Created by [Filip Filipović](http://alas.matf.bg.ac.rs/~mi17113/).
+
